@@ -2,6 +2,7 @@
 
 Este repositório contém os notebooks e materiais desenvolvidos durante as aulas de **Machine Learning com foco em classificação**, utilizando bibliotecas como `scikit-learn`, `pandas`, `matplotlib` e outras ferramentas do ecossistema Python.
 
+
 ## 🧠 Objetivo
 
 Explorar os principais conceitos de aprendizado supervisionado, com ênfase em algoritmos de **classificação**, aplicando-os em problemas reais e conjuntos de dados variados.
